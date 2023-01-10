@@ -1,0 +1,23 @@
+{
+  "name": "core_node_api",
+  "version": "1.0.0",
+  "description": "NodeJS API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "api",
+    "pure"
+  ],
+  "author": "Khumoyun Turabekov",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
